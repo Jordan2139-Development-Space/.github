@@ -18,18 +18,6 @@ end
 
 ---
 
-### GitHub Stats
-<p align="center">
-<a href="https://github.com/jordan2139">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jordan2139&show_icons=true&title_color=5865F2&icon_color=5865F2&text_color=FFFFFF&bg_color=171B23&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordan2139&layout=compact&langs_count=8&title_color=5865F2&icon_color=5865F2&text_color=FFFFFF&bg_color=171B23"/>
-</a>
-</p>
-
----
-
-### Use code `Jordan2139` at [Iceline Hosting](https://iceline.host/jordan2139) for `15% off` your first month
-
----
+# This is a private team for many of the paid and private projects I work on, if you found this, well congrats! You get a cookie
 
 <h3 align=center>Show some ❤️ by starring some of the repositories or dropping a follow!</h3>
